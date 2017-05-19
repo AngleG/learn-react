@@ -7,7 +7,7 @@
 npm install babel-loader --save-dev
 npm install babel-preset-es2015 babel-preset-react --save-dev
 ```
-- `babel-preset-es2015`: 有了这个，我们就可以随意的使用es6新语法了。
+- `babel-preset-es2015`: es6语法转换。
 - `babel-preset-react`: react转码规则，让你在代码中可以使用React ES6 classes的写法，同时直接支持JSX语法格式。
 
 ### 配置webpack
